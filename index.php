@@ -1,5 +1,5 @@
-<?php
-/**
+<?php   
+/** test
  * CodeIgniter
  *
  * An open source application development framework for PHP
@@ -55,7 +55,7 @@
  */
 	define('ENVIRONMENT', isset($_SERVER['CI_ENV']) ? $_SERVER['CI_ENV'] : 'development');
 
-/*
+/*    
  *---------------------------------------------------------------
  * ERROR REPORTING
  *---------------------------------------------------------------
